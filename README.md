@@ -346,9 +346,16 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is open source and available under the [MIT License](LICENSE).
 
+---
+
 ## 👨‍💻 Author
 
-Developed for **🏛️ Khwaja Yunus Ali University (KYAU)**
+**👩‍🎓 Developed by:** *Umme Salma*  
+**🎓 Batch:** 16th  
+**💻 Department:** Computer Science and Engineering (CSE)  
+**🏛️ Developed for:** *Khwaja Yunus Ali University (KYAU)*
+
+---
 
 ## 📞 Support
 
@@ -367,6 +374,6 @@ For support, please open an issue in the repository or contact the development t
 ---
 
 **Version**: 1.0.0  
-**Last Updated**: 2024  
+**Last Updated**: 2025  
 **Status**: Active Development
 
